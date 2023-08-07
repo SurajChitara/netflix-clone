@@ -1,0 +1,459 @@
+@media (max-width: 1115px) {
+    .other-container{
+        height: auto;
+    }
+
+    .other-container hr{
+        width: 133%;
+        right: 9rem;
+    }
+
+    .other-container #end{
+        width: 100%;
+    }
+}
+
+@media (max-width:800px) {
+
+
+    .container {
+        width: 100%;
+        height: auto;
+        font-family: 'Poppins', sans-serif;
+
+    }
+
+    .other-container {
+        height: auto;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .logo-bar {
+        height: 94px;
+
+        margin: 0 0;
+    }
+
+    .logo-bar .netflix-logo {
+        position: sticky;
+        margin-left: 11px;
+        width: 137px;
+        margin-top: 14px;
+    }
+
+    .select {
+        margin-right: 19px;
+        top: 10px;
+        gap: 8px;
+    }
+
+    .lang-sign {
+        top: 37px;
+    }
+
+    .sub-intro {
+        margin-bottom: 5rem;
+        width: 80%;
+    }
+
+    .intro-div {
+        align-items: center;
+        justify-content: flex-start;
+        margin-top: 76px;
+    }
+
+    .intro-div h1 {
+        font-size: 32px;
+        font-weight: 600;
+    }
+
+    .intro-div h3 {
+        margin: 0;
+        font-size: 19px;
+        font-weight: 700;
+    }
+
+    input {
+        padding: 12px 32px;
+        width: 100%;
+        margin-bottom: 14px;
+    }
+
+    .intro-div button {
+        
+        font-size: 19px;
+       
+        margin-left: 0;
+    }
+
+
+    .other-container hr {
+        width: 111%;
+        right: 37px;
+    }
+
+    .other-container #end {
+        width: 100%;
+    }
+
+    .features {
+        padding: 0 42px;
+    }
+
+    .row {
+        flex-direction: column;
+        text-align: center;
+
+    }
+
+    #mobile-row {
+        flex-direction: column-reverse;
+    }
+
+    #kids-row {
+        flex-direction: column-reverse;
+    }
+
+
+    .img-tv img {
+        width: 51%;
+    }
+
+    .about-tv {
+        width: 96%;
+    }
+
+    .row #tv {
+        left: 2rem;
+        width: 75%;
+        top: 4rem;
+    }
+
+    .features h1 {
+        font-size: 35px;
+    }
+
+    .row {
+        height: auto;
+    }
+
+    .row img {
+        width: 75%;
+    }
+
+    #show-row {
+        height: 561px;
+    }
+
+    .row #mobile {
+        right: 0;
+
+    }
+
+    .faq h2 {
+        font-size: 40px;
+        margin-top: 39px;
+    }
+
+
+
+    .faq button {
+        margin-left: 0;
+    }
+
+    .contact {
+        margin: 61px;
+    }
+
+
+    .contact ul li {
+        width: 32%;
+    }
+
+
+    #netflix-india {
+        margin-top: 34px;
+        margin-bottom: -61px;
+    }
+
+
+
+/* 746px */
+
+    @media (max-width:746px) {
+     
+
+        .logo-bar {
+            gap: 4rem;
+        }
+
+        .other-container hr {
+            width: 112%;
+
+        }
+
+        .contact ul li {
+            width: 33%;
+        }
+
+
+
+    }
+
+
+    /* 648px */
+    @media (max-width:648px) {
+        .other-container hr {
+            width: 113%;
+
+        }
+
+        .contact ul li {
+            width: 50%;
+        }
+
+
+
+
+    }
+
+
+
+/* 582 px */
+    @media (max-width: 582px) {
+        .other-container hr {
+            width: 116%;
+        }
+    }
+
+
+
+/* 518px */
+    @media (max-width: 518px) {
+        .logo-bar {
+            gap: 2rem;
+        }
+
+        .contact ul li {
+            width: 50%;
+        }
+
+        .other-container hr {
+            width: 117%;
+        }
+
+        .row #tv {
+            left: 1rem;
+            width: 100%;
+
+        }
+
+        .row {
+            height: auto;
+        }
+
+        .img-tv img {
+            width: 100%;
+        }
+
+        .features h1 {
+            font-size: 25px;
+        }
+
+
+
+    }
+
+
+
+
+
+    /* 469px */
+    @media (max-width: 469px) {
+        .logo-bar {
+            gap: 2rem;
+        }
+
+        .contact ul li {
+            width: 50%;
+        }
+
+        .other-container hr {
+            width: 121%;
+        }
+
+        .row {
+            height: auto;
+        }
+
+        #show-row {
+            height: 450px;
+        }
+
+        .row #mobile {
+
+            top: 12px;
+        }
+
+        .row #show {
+            top: 29px;
+        }
+
+        .sub-faq li label {
+            font-size: 15px;
+            text-align: left;
+            padding: 9px;
+        }
+
+
+
+    }
+
+
+
+    /* 422px */
+    @media (max-width: 422px) {
+        .logo-bar .netflix-logo {
+            width: 120px;
+        }
+
+        .select {
+            top: 0px;
+        }
+
+        .contact ul li {
+            width: 50%;
+        }
+
+        .contact a {
+            font-size: 11px;
+        }
+
+        .faq h2 {
+            font-size: 33px;
+        }
+
+        .other-container hr {
+            width: 123%;
+        }
+
+
+    }
+
+
+
+
+    /* 404px */
+    @media (max-width:404px) {
+
+
+        .logo-bar {
+            gap: 0;
+        }
+
+        .contact ul li {
+            width: 100%;
+        }
+
+        .row p {
+            font-size: 17px;
+        }
+
+
+    }
+
+   
+
+
+
+    /* 375px */
+    @media (max-width:375px) {
+        .container{
+            height: 31rem;
+        }
+        
+        .intro-div h1 {
+            font-size: 27px;
+            line-height: 1.3;
+       
+        }
+
+        .sub-container {
+            height: auto;
+        }
+
+        .select {
+            top: 2px;
+        }
+
+        #lang {
+                width: 51px;
+                padding: 3px 19px;
+        }
+
+        input {
+
+            width: 88%;
+
+        }
+
+        .other-container hr {
+            width: 126%;
+        }
+
+       .faq button {
+           width: 170px;
+           font-size: 17px;
+           
+        }
+
+        
+        .intro-div button{
+            font-size: 18px;
+        }
+        .select button{
+            padding: 3px 9px;
+        }
+        .intro-div{
+            margin-top: 37px;
+        }
+        .intro-div h3{
+            margin: 15px 0px;
+            font-size: 16px;
+            line-height: 2;
+            font-weight: 400;
+        }
+        .intro-div p {
+           font-size: 16px;
+           font-weight: 400;
+           line-height: 21px;
+        }
+
+        .faq h2 {
+           font-size: 28px;
+        }
+
+        
+
+
+    }
+
+
+
+    /* 360px */
+    @media (max-height: 360px) {
+        .other-container hr {
+            width: 127%;
+        }
+
+        .faq h2 {
+            font-size: 27px;
+        }
+    }
+
+
+
+
+
+
+}
