@@ -200,7 +200,8 @@ input {
 .other-container {
     background-color: #000000;
     font-family: 'Poppins', sans-serif;
-    height: 225rem;
+    margin-bottom: -64px;
+    height: auto;
 }
 
 /* styling features  */
